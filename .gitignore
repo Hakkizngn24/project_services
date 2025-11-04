@@ -1,0 +1,9 @@
+# Bağımlılıklar
+/node_modules
+
+# Ortam değişkenleri (Gizli)
+.env
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
